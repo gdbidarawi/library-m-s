@@ -5,12 +5,19 @@ A full-stack Library Management System built with MongoDB, Express.js, React.js,
 
 Used application Technology & Programming tools|
 | Frontend | React.js (Vite), React Router, Context API, Formik + Yup, Chart.js |
+
 | Backend | Node.js, Express.js |
+
 | Database | MongoDB (Atlas or local) |
+
 | Auth | JWT + bcryptjs |
+
 | File Uploads | Multer |
+
 | Emails | Nodemailer |
+
 | PDF/CSV Export | pdfkit, json2csv, csv-parser |
+
 | Scheduling | node-cron (overdue detection, due-date reminders) |
 
 	Project Structure
